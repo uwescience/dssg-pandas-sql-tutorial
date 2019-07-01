@@ -1,0 +1,9 @@
+#!/bin/bash
+
+jupyter labextension install @jupyter-widgets/jupyterlab-manager \
+                             @pyviz/jupyterlab_pyviz \
+                             jupyter-matplotlib \
+                             jupyter-leaflet
+
+
+#EOF
