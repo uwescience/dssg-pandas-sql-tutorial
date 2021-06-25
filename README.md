@@ -6,7 +6,7 @@ Authors:
 * Scott Henderson (ESS)
 
 **Run this tutorial on mybinder.org!**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uwescience/dssg-pandas-sql-tutorial/2019?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uwescience/dssg-pandas-sql-tutorial/master?urlpath=lab)
 
 ## Concepts
 * What is jupyterhub/jupyterlab and how is it used with conda and python to setup a computational environment
