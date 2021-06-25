@@ -11,5 +11,6 @@ dependencies:
   - ipyleaflet
   - matplotlib
   - nomkl
+  - psycopg2
   - sqlalchemy
   - sqlite
